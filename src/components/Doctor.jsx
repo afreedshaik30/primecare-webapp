@@ -4,34 +4,41 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 
+import doc4 from "../assets/doc/doc4";
+import doc3 from "../assets/doc/doc3";
+import doc2 from "../assets/doc/doc2";
+import doc1 from "../assets/doc/doc1";
+import doc5 from "../assets/doc/doc5";
+import doc6 from "../assets/doc/doc6";
+
 const data = [
   {
-    img: "/src/assets/doc/doc4.jpg",
+    img: doc4,
     name: "Dr. Ananya Reddy",
     specialties: "Orthopedic Surgeon",
   },
   {
-    img: "/src/assets/doc/doc3.jpg",
+    img: doc3,
     name: "Dr. Rajesh Sharma",
     specialties: "Cardiologist",
   },
   {
-    img: "/src/assets/doc/doc2.jpg",
+    img: doc2,
     name: "Dr. Meera Iyer",
     specialties: "Pediatrician",
   },
   {
-    img: "/src/assets/doc/doc1.jpg",
+    img: doc1,
     name: "Dr. Arjun Patel",
     specialties: "Neurologist",
   },
   {
-    img: "/src/assets/doc/doc5.jpg",
+    img: doc5,
     name: "Dr. Naresh Menon",
     specialties: "Dermatologist",
   },
   {
-    img: "/src/assets/doc/doc6.jpg",
+    img: doc6,
     name: "Dr. Sameer Khan",
     specialties: "Ophthalmologist",
   },
