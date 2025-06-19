@@ -4,12 +4,12 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 
-import doc4 from "../assets/doc/doc4";
-import doc3 from "../assets/doc/doc3";
-import doc2 from "../assets/doc/doc2";
-import doc1 from "../assets/doc/doc1";
-import doc5 from "../assets/doc/doc5";
-import doc6 from "../assets/doc/doc6";
+import doc1 from "../assets/doc/doc1.jpg";
+import doc2 from "../assets/doc/doc2.jpg";
+import doc3 from "../assets/doc/doc3.jpg";
+import doc4 from "../assets/doc/doc4.jpg";
+import doc5 from "../assets/doc/doc5.jpg";
+import doc6 from "../assets/doc/doc6.jpg";
 
 const data = [
   {
